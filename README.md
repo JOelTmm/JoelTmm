@@ -38,7 +38,6 @@ Je suis **Joël Traina**, passionné par l'informatique et les jeux vidéo depui
 - **Résultat** : Le robot a été capable de participer à la compétition, réussissant à lancer des balles avec précision, ce qui a montré l'efficacité de la programmation et du contrôle du robot dans un environnement virtuel.
 ## 🌐 Liens professionnels
 - [LinkedIn](https://www.linkedin.com/in/veron-messina-b94638251/)
-- [X](https://x.com/votreprofil) (si vous avez un compte)
 - [Mon portfolio](https://JOelTmm.github.io/portfolio/) 
 
 
