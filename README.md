@@ -39,6 +39,6 @@ Je suis **Joël Traina**, passionné par l'informatique et les jeux vidéo depui
 ## 🌐 Liens professionnels
 - [LinkedIn](https://www.linkedin.com/in/veron-messina-b94638251/)
 - [X](https://x.com/votreprofil) (si vous avez un compte)
-- [Mon portfolio](https://votreportfolio.com) (si vous avez un portfolio en ligne)
+- [Mon portfolio](https://JOelTmm.github.io/portfolio/) 
 
 
